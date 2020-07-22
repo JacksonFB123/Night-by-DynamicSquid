@@ -60,3 +60,5 @@ else
     print "hi";
 }
 ```
+
+[![Run on Repl.it](https://repl.it/badge/github/JacksonFB123/Night-by-DynamicSquid)](https://repl.it/github/JacksonFB123/Night-by-DynamicSquid)
